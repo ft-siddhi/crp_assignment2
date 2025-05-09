@@ -1,0 +1,14 @@
+---
+title: "ETC5513: Collaborative and Reproducible Practices: Assignment 2"
+author: Siddhi Jadhav
+date: today
+output: 
+  html_document:
+    theme: journal
+editor: visual
+---
+
+
+## Hello !!!
+
+This is my quarto document
